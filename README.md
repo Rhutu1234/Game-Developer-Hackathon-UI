@@ -2,6 +2,8 @@
 
 An Angular dashboard for exploring synthetic football match events and tactical analysis. It includes a live match timeline, a filtered pitch map, event and player statistics, xG trends, and an AI-agent chat panel.
 
+<img width="1376" height="768" alt="Gemini_Generated_Image_x352x5x352x5x352" src="https://github.com/user-attachments/assets/2590b5e5-8ef0-49ad-b680-120b64e89219" />
+
 ## Requirements
 
 - Node.js and npm
